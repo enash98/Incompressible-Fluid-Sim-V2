@@ -1,0 +1,7 @@
+This gif shows a simulation of an incompressible fluid in a thermally insulated 2D box, with a heat source near the bottom in the center.
+The fluid is subject to a uniform - downwards - gravitational field, and convection forces due to gradients in the heat distribution function
+
+The flow velocity is indicated by the quiver plot, with the arrow length roughly showing the flow speed at each point
+The heat distribution is indicated by the colourmap, where violet/blue corresponds to a low heat density, and green/yellow corresponds to a high heat density
+
+The fluid is initially at rest, with a uniform inital heat distribution.
